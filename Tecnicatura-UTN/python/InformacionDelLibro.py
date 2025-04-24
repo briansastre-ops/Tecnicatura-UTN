@@ -6,3 +6,5 @@ autor = input("Proporciona el autor: ")
 
 # Mostramos la frase final
 print(f"{titulo} fue escrito por {autor}")
+
+
