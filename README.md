@@ -105,4 +105,3 @@ Si tienes preguntas o sugerencias, no dudes en comunicarte:
 
 ---
 
-Este README profesional y bien estructurado proporciona toda la información relevante sobre el repositorio. Puedes ajustarlo según los detalles específicos de tu proyecto. ¿Quieres que incluya algo más o que lo suba directamente al repositorio?
