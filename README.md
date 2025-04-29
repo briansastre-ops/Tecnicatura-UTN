@@ -1,4 +1,4 @@
-Un archivo README es crucial para describir un proyecto de manera profesional y efectiva. Basándome en las características proporcionadas sobre tu repositorio, a continuación se presenta un ejemplo de un README para el repositorio `Tecnicatura-UTN` que resalta profesionalismo y claridad:
+
 
 ---
 
